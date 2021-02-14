@@ -10,11 +10,11 @@ Om en måned zoomer magasinet ind på Roskilde Tekniske Skole i cirka 14 dage, m
 * CSS
   * CSS Flexible Box Layout Module
   
-### Indhold til artikler, faktabokse o.l.
-Tekster, billeder o.l indhold som skal brugs på sitet skal findes på internettet, brug fx. www.rts.dk/webudvikler
-
 ### Tekniske krav til det endelige produkt.
 Sitets layout skal udnytte skærmens fulde bredde, og være semantisk korrekt opsat i HTML/CSS.
+  
+### Indhold til artikler, faktabokse o.l.
+Tekster, billeder o.l indhold som skal brugs på sitet skal findes på internettet, brug fx. www.rts.dk/webudvikler
 
 ### Template arkitektur for CSS
 Ethvert projekt har brug for at være organiseret. At smide alle nye CSS-regel du opretter, ind i slutningen af en enkelt CSS-fil vil med tiden gøre det vanskeligere at finde ting og vil være meget forvirrende for alle andre, der fremadrettet måtte komme til at arbejde på projektet, og selvfølgelig også for dig selv, ikke mindst hvis du har været væk fra projektet en rum tid.
