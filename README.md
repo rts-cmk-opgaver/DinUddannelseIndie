@@ -19,14 +19,13 @@ Sitets layout skal udnytte skærmens fulde bredde, og være semantisk korrekt op
 ### Template arkitektur for CSS
 Ethvert projekt har brug for at være organiseret. At smide alle nye CSS-regel du opretter, ind i slutningen af en enkelt CSS-fil vil med tiden gøre det vanskeligere at finde ting og vil være meget forvirrende for alle andre, der fremadrettet måtte komme til at arbejde på projektet, og selvfølgelig også for dig selv, ikke mindst hvis du har været væk fra projektet en rum tid.
 
-**Lav en liste med templates**
+**Lav en liste med templates**<br>
 Beskriv hvilke templates(ex. *header*) der skal udvikles, i første omgang koncentrerer vi os om den mobile udgave(se style guide). List herunder 
 
 Angiv din liste herunder:
 1. xxx
 2. xxx
 3. xxx
-etc.
 
 ### Responsivt og mobile first
 Begrebet responsivt design beskriver teknikken, hvor en hjemmesides design automatisk justeres ud fra størrelsen på brugernes skærmbilleder. Takket være et responsivt design kan brugerne nemt se en hjemmeside, uanset hvilken enhed de benytter. Hjemmesidens layout og indhold ændres med udgangspunkt i en browsers bredde på en specifik enhed.
