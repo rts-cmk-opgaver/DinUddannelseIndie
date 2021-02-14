@@ -11,7 +11,7 @@ Om en måned zoomer magasinet ind på Roskilde Tekniske Skole i cirka 14 dage, m
   * CSS Flexible Box Layout Module
   
 ### Indhold til artikler, faktabokse o.l.
-Indholdet til sitet, tekster og billeder skal findes på internettet, brug fx. www.rts.dk/webudvikler
+Tekster, billeder o.l indhold som skal brugs på sitet skal findes på internettet, brug fx. www.rts.dk/webudvikler
 
 ### Tekniske krav til det endelige produkt.
 Sitets layout skal udnytte skærmens fulde bredde, og være semantisk korrekt opsat i HTML/CSS.
