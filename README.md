@@ -23,9 +23,9 @@ Ethvert projekt har brug for at være organiseret. At smide alle nye CSS-regel d
 Beskriv hvilke templates(ex. *header*) der skal udvikles, i første omgang koncentrerer vi os om den mobile udgave(se style guide). List herunder 
 
 Angiv din liste herunder:
-1. -
-2. -
-3. -
+1. xxx
+2. xxx
+3. xxx
 etc.
 
 ### Responsivt og mobile first
