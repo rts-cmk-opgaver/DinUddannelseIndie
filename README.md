@@ -16,7 +16,7 @@ Tekster, billeder o.l indhold som skal brugs på sitet skal findes på internett
 ### Tekniske krav til det endelige produkt.
 Sitets layout skal udnytte skærmens fulde bredde, og være semantisk korrekt opsat i HTML/CSS.
 
-### Template Arkitektur for CSS
+### Template arkitektur for CSS
 Ethvert projekt har brug for at være organiseret. At smide alle nye CSS-regel du opretter, ind i slutningen af en enkelt CSS-fil vil med tiden gøre det vanskeligere at finde ting og vil være meget forvirrende for alle andre, der fremadrettet måtte komme til at arbejde på projektet, og selvfølgelig også for dig selv, ikke mindst hvis du har været væk fra projektet en rum tid.
 
 ### Responsivt og mobile first
