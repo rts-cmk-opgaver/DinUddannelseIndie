@@ -20,9 +20,8 @@ Sitets layout skal udnytte skærmens fulde bredde, og være semantisk korrekt op
 Ethvert projekt har brug for at være organiseret. At smide alle nye CSS-regel du opretter, ind i slutningen af en enkelt CSS-fil vil med tiden gøre det vanskeligere at finde ting og vil være meget forvirrende for alle andre, der fremadrettet måtte komme til at arbejde på projektet, og selvfølgelig også for dig selv, ikke mindst hvis du har været væk fra projektet en rum tid.
 
 **Lav en liste med templates**<br>
-Beskriv hvilke templates(ex. *header*) der skal udvikles, i første omgang koncentrerer vi os om den mobile udgave(se style guide). List herunder 
+Beskriv hvilke templates(ex. *header*) der skal udvikles, i første omgang koncentrerer vi os om den mobile udgave(se style guide). List herunder de templates du er kommet frem til skal udvikles. 
 
-Angiv din liste herunder:
 1. xxx
 2. xxx
 3. xxx
