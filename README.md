@@ -26,7 +26,7 @@ Beskriv hvilke templates(ex. *header*) der skal udvikles, i første omgang konce
 2. xxx
 3. xxx
 
-### Responsivt og mobile first
+### Responsivt layout og mobile first
 Begrebet responsivt design beskriver teknikken, hvor en hjemmesides design automatisk justeres ud fra størrelsen på brugernes skærmbilleder. Takket være et responsivt design kan brugerne nemt se en hjemmeside, uanset hvilken enhed de benytter. Hjemmesidens layout og indhold ændres med udgangspunkt i en browsers bredde på en specifik enhed.
 
 ### Særlige fokusområder
