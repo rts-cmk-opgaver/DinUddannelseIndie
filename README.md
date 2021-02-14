@@ -1,2 +1,3 @@
-# Din Uddannelse
+# Onlinemagasinet dinUddannelse.dk
+### Et web-magasin om erhvervsuddannelserne
 
