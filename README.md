@@ -10,7 +10,7 @@ Om en måned zoomer magasinet ind på Roskilde Tekniske Skole i cirka 14 dage, m
 * CSS
   * CSS Flexible Box Layout Module
   
-### Tekniske krav til det endelige produkt.
+### Tekniske krav til det endelige produkt
 Sitets layout skal udnytte skærmens fulde bredde, og være semantisk korrekt opsat i HTML/CSS.
   
 ### Indhold til artikler, faktabokse o.l.
